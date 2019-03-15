@@ -14,7 +14,7 @@ Put it as input file in the folder (frequency-attack).
 Then, follow the bash to execute.
 
 ```bash
-$ python3 origin_crawler.py
+$ python break_cipher.py
 ```
 
 Enter file name with extension, or you can enter "default" to read the example encrypted file.
